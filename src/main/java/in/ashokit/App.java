@@ -7,6 +7,8 @@ package in.ashokit;
 public class App 
 
 int i=10;
+
+string ="Helo";
 {
     public static void main( String[] args )
     {
