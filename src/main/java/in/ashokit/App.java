@@ -18,4 +18,8 @@ int b=20;
         System.out.println( "Hello World!" );
 		
     }
+
+public void test(){
+System.out.println("test");
+}
 }
